@@ -1,0 +1,31 @@
+img
+{
+border-radius:50%;
+}
+ tr{
+   text-align: center;
+ }
+h1
+{color: purple;
+
+ }
+h2
+{color: red;
+
+ }
+h3
+{color: blue;
+
+ }
+h4
+{color: pink;
+ }
+h5
+{color: green;
+ }
+h6
+{color: brown;
+  }
+td {
+  padding: 15px;
+}
